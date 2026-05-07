@@ -1,0 +1,8 @@
+streamlit
+supabase
+openai
+celery
+redis
+python-dotenv
+emoji
+pandas
