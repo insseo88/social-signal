@@ -1,0 +1,250 @@
+{
+    "lingo": [
+        {
+            "word": "best/syok",
+            "type": "slang",
+            "meaning": "形容一种极度愉悦和享受的体验。",
+            "example": "Milo Dinosaur + big win = **SYOK** giler tonight! Feeling **best** after that Royal Flush!"
+        },
+        {
+            "word": "Bojio",
+            "type": "slang",
+            "meaning": "“Never invite”的意思，用来开玩笑地抱怨朋友没叫上自己。",
+            "example": "Y'all hit the jackpot at Genting, and nobody told me?? **Bojio**! Next time tag me in. "
+        },
+        {
+            "word": "Boss",
+            "type": "slang",
+            "meaning": "用来称呼你不认识名字的服务人员，比如餐厅服务员或店主。",
+            "example": "Poker table service is slow. Hey **Boss**, I need another drink, please!"
+        },
+        {
+            "word": "Cincai",
+            "type": "slang",
+            "meaning": "意思是“随便”或“都可以”。",
+            "example": "Betting strategy for the next hand? **Cincai** lah, luck will decide."
+        },
+        {
+            "word": "Mempersiasuikan",
+            "type": "slang",
+            "meaning": "意思是“使人尴尬”或“丢脸”。",
+            "example": "Bro went all-in then showed 7-2 offsuit. Don't **mempersiasuikan** the poker community."
+        },
+        {
+            "word": "Potong stim",
+            "type": "slang",
+            "meaning": "指扫兴或破坏气氛的人或事。",
+            "example": "I was one number away from the big prize... then the app crashed. Damn **potong stim**!"
+        },
+        {
+            "word": "Abuden?",
+            "type": "slang",
+            "meaning": "当别人问了很明显的蠢问题时，用来讽刺地回答“不然呢？”",
+            "example": "A: You just cashed out, are you leaving? B: **Abuden**? Gotta spend this win!"
+        },
+        {
+            "word": "Ngam-ngam",
+            "type": "slang",
+            "meaning": "意思是“刚刚好”或“正合适”。",
+            "example": "Dealer's upcard was a 6, and I got a 5. **Ngam-ngam** for 21. Blackjack!"
+        },
+        {
+            "word": "Pokai",
+            "type": "slang",
+            "meaning": "指“破产了”或“没钱了”。",
+            "example": "Sorry guys, gotta skip the casino tonight. Already **pokai** from last week's game."
+        },
+        {
+            "word": "Mantap",
+            "type": "slang",
+            "meaning": "表示“好”、“棒”、“正点”，用来表达赞同。",
+            "example": "That counter-bluff was **mantap**! They folded instantly. What a play!"
+        },
+        {
+            "word": "Yilek",
+            "type": "slang",
+            "meaning": "意思是“没有”、“不知道”或“不要”。",
+            "example": "Asked my wallet if it has money for another bet. Wallet said **yilek**. Time to go home."
+        },
+        {
+            "word": "Itulah tu",
+            "type": "slang",
+            "meaning": "表示“就是说啊”或“可不是嘛”，用于表示同意或无奈的接受。",
+            "example": "Me: 'I shouldn't have bet on red so many times.' Friend: '**Itulah tu**… we told you green was due."
+        },
+        {
+            "word": "Gila / Gila Babi",
+            "type": "slang",
+            "meaning": "用来极大地增强形容词的强度，就像英文里的 'super' 或 'super duper'。例如，'Panas Gila' (疯狂地热)。",
+            "example": "My friend just risked $5,000 on a single number. That's **Gila Babi** betting!"
+        },
+        {
+            "word": "Izzit / Ye ka?",
+            "type": "slang",
+            "meaning": "不是表示怀疑，而是用来表达极度的惊讶或“真的吗？太厉害了！”的感觉。",
+            "example": "A: I won the daily lottery draw! B: **Izzit**!? Send proof right now! Congrats!"
+        },
+        {
+            "word": "Wei / Eh / Dei / Hai",
+            "type": "slang",
+            "meaning": "用来称呼亲近的朋友，而不是叫他们的真名。",
+            "example": "**Wei**, who wants to join a last-minute poker game? Tonight, my place."
+        },
+        {
+            "word": "Gone case / Mampus / Si liao / GG / Pok kai",
+            "type": "slang",
+            "meaning": "当你真的遇到大麻烦或完蛋了的时候使用。",
+            "example": "Forgot the house rule about splitting 10s. **Si liao**, it's **gone case** for my bankroll. "
+        },
+        {
+            "word": "Kanasai",
+            "type": "slang",
+            "meaning": "字面意思是“像屎一样”，用来形容某事非常糟糕。",
+            "example": "My luck at the table today is **Kanasai**. Time to quit before I lose my shirt. "
+        },
+        {
+            "word": "Nah",
+            "type": "slang",
+            "meaning": "基本上就是“给你”或“拿去”的意思，在递东西给别人时使用。",
+            "example": "He asked for a chip to try his luck. **Nah**, here's $20, go for it. "
+        },
+        {
+            "word": "Lol",
+            "type": "slang",
+            "meaning": "用来回应一个很冷的笑话，通常会伴随着一个面无表情的脸。发音时是当成一个词来读。",
+            "example": "Friend just said his 'system' for roulette is to bet on his birthday. **...lol.**"
+        },
+        {
+            "word": "Chun",
+            "type": "slang",
+            "meaning": "意思是“精准”、“正点”、“完全正确”。",
+            "example": "Betting $100 on the score 3-1 was **chun**! Payout just hit my account. "
+        },
+        {
+            "word": "Jom",
+            "type": "slang",
+            "meaning": "“走吧”、“来吧”的意思，表示邀请和积极提议。",
+            "example": "Drinks on me if we win the next round. **Jom**! Let's get this done. "
+        },
+        {
+            "word": "Kena",
+            "type": "slang",
+            "meaning": "字面意思是“被击中”，引申为“中招”、“中奖”、“倒霉”或“被惩罚”。",
+            "example": "I **kena** a really bad streak of hands. Time to change tables. "
+        },
+        {
+            "word": "Belanja",
+            "type": "slang",
+            "meaning": "意思是“请客”或“买单”。",
+            "example": "You won the league bet! You must **belanja** us all mamak next week! "
+        },
+        {
+            "word": "Adoi!",
+            "type": "exclamation",
+            "meaning": "表达痛苦、失望或沮丧的叹词，相当于“哎呀！”或“糟了！”",
+            "example": "**Adoi!** That was the worst beat I've ever seen! My Ace-King lost to a 7-2. "
+        },
+        {
+            "word": "Bodoh",
+            "type": "slang",
+            "meaning": "字面意思是“笨蛋”，在朋友之间可以用于开玩笑式的嘲讽或自嘲。",
+            "example": "I called his all-in with a pair of jacks. I am so **bodoh**. Should've known. "
+        },
+        {
+            "word": "Lubuk",
+            "type": "slang",
+            "meaning": "原指河流中多鱼的地方，引申为“宝地”或“提款机”，指代很容易赢钱的对象或地方。",
+            "example": "Found a **lubuk** at the baccarat table tonight. Shhh, don't tell anyone. "
+        },
+        {
+            "word": "Sayur",
+            "type": "slang",
+            "meaning": "字面意思是“蔬菜”，引申为“太容易了”、“太弱了”、“新手”。",
+            "example": "The online opponent I just played was total **sayur**. Easiest win all week. "
+        },
+        {
+            "word": "Geng",
+            "type": "slang",
+            "meaning": "不只是“帮派”，在朋友间是表示“赞叹”或“厉害”的感叹词。",
+            "example": "**Geng!** Did you see that move? Pure skill. No luck needed. "
+        },
+        {
+            "word": "Chup",
+            "type": "slang",
+            "meaning": "意思是“等等”或“占位”。",
+            "example": "**Chup!** Hold the dealer, I need to reload my account first! "
+        },
+        {
+            "word": "Sotong",
+            "type": "slang",
+            "meaning": "字面意思是“鱿鱼”，指代那些“行为糊涂”、“搞不清楚状况”的人。",
+            "example": "This new player is so **sotong**, betting on both Banker and Player at the same time. Wtf? "
+        },
+        {
+            "word": "Gostan",
+            "type": "slang",
+            "meaning": "从英文“go astern”演变而来，意指“倒退”或“反悔”。",
+            "example": "Made the bet, then regretted it. Too late, no **gostan** now! "
+        },
+        {
+            "word": "Yum Cha",
+            "type": "slang",
+            "meaning": "字面意思是“饮茶”，引申为“聚会”、“闲聊”或“休息一下”。",
+            "example": "Okay, enough for tonight. Time to go **yum cha** and talk about these wild losses. "
+        },
+        {
+            "word": "ah",
+            "type": "particle",
+            "meaning": "用在句末，用于提出问题或寻求确认。",
+            "example": "We are raising the blinds to $50 **ah**? Time to get serious. "
+        },
+        {
+            "word": "meh",
+            "type": "particle",
+            "meaning": "用在句末，表示怀疑或不相信。",
+            "example": "You really think he's bluffing with that big bet **meh**? Looks strong to me. "
+        },
+        {
+            "word": "la/lah",
+            "type": "particle",
+            "meaning": "万能的语气助词，用在句末加强语气、表示确定或不耐烦。",
+            "example": "Just call the bet **lah**, stop thinking so much. "
+        },
+        {
+            "word": "lor/loh",
+            "type": "particle",
+            "meaning": "用在句末，表示一个显而易见的结果或一种无奈的接受。",
+            "example": "If you don't save some cash, then you can't join the game next week **lor**. "
+        },
+        {
+            "word": "walau / walao",
+            "type": "exclamation",
+            "meaning": "用来表达强烈的惊讶、惊叹或不敢相信。",
+            "example": "**Walau**, the house edge on that game is insane! Who plays that? "
+        },
+        {
+            "word": "walau eh",
+            "type": "exclamation",
+            "meaning": "在'walau'的基础上，增加了沮丧、烦躁或恼怒的情绪。",
+            "example": "**Walao eh**, I finally got pocket Aces, but everyone folded pre-flop! So wasted."
+        },
+        {
+            "word": "Fuyoh / Aiseh",
+            "type": "exclamation",
+            "meaning": "当对某事印象深刻或感到惊叹时，用在句首。",
+            "example": "**Fuyoh**, that guy just walked in and won $10k in five minutes. Legendary luck!"
+        },
+        {
+            "word": "Alamak",
+            "type": "exclamation",
+            "meaning": "用来表达惊讶、沮丧或震惊，通常是因为犯了错或发生了意想不到的坏事。",
+            "example": "**Alamak**, I put the wrong team in my accumulator bet! So many potential winnings lost."
+        },
+        {
+            "word": "Bha",
+            "type": "particle",
+            "meaning": "可以像 'Lah' 一样用作语气助词，或者表示“好的”、“Okay”。",
+            "example": "You want to split the jackpot if we win? Okay **bha**, deal!"
+        }
+    ]
+}
